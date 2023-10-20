@@ -12,7 +12,7 @@ This tool can remove the background surrounding a person. This functionality can
 
 ## Getting Started
 ### Data
-* Download the example data from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing). I selected this data because there is a high contrast between the person and the background, and the model is working almost perfectly well.
+* Download the example data from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing). Currently, this model performs well on data that has a high contrast between the person and the background. For data with low contrast, this model requires additional training in those respective areas.
 * Put data into the `data` folder.
 
 ### Model

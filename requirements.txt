@@ -1,2 +1,3 @@
 ultralytics
-torch>=2.0.1
+opencv-python
+numpy

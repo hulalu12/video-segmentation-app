@@ -6,7 +6,7 @@ This tool can remove the background surrounding a person. This functionality can
 
 <p float="left">
   <img src="./images/image.jpg" width="50%" />
-  <img src="./images/masked.jpg" width="50%" /> 
+  <img src="./images/masked.png" width="50%" /> 
 </p>
 
 

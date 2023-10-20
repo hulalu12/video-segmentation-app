@@ -18,10 +18,9 @@ Considering that the misuse of the dataset may lead to ethical concerns, as reco
 * torch  >= 1.2.0
 * numba
 
-### Models
-* Download the pose estimator model `body_pose_model.pth` from [here](https://github.com/Hzzone/pytorch-openpose).
-* Download the reshaping model body_reshape_model.pth from [google drive](https://drive.google.com/file/d/1E2kwYVCopNzcmi2U2vWXORyiJmExcezD/view?usp=sharing) or [百度网盘](https://pan.baidu.com/s/1hxlh5jipyaEi1R6NLm8KFg?pwd=17e6) (key:17e6).
-* Put body_pose_model.pth and body_reshape_model.pth into the `models` folder.
+### Models and Data
+* Download the reshaping model body_reshape_model.pth from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing)
+* Put video-seg.pt into the `models` folder.
 
 
 ### Run the Demo

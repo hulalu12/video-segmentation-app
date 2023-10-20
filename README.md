@@ -1,20 +1,5 @@
 # video-segmentation-app
-This tool can remove the background surrounding a person. This functionality can be utilized to develop an application or software that removes backgrounds
-
-
-Structure-Aware Flow Generation for Human Body Reshaping (CVPR 2022)
-=====
-
-
-[Jianqiang Ren](rjq235@gmail.com), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie  
-
-[DAMO Academy, Alibaba Group](https://damo.alibaba.com), Hangzhou, China
-
-[Paper](https://arxiv.org/abs/2203.04670) | [Supp](https://drive.google.com/file/d/1wZDQK5I1PG9DYpKJHDS5NH9DCsQ3FUD1/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=U7MTOXm4Uhc&t=130s) | [More Results](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
-
-
-## News
-(2022-09-28) The pretrained model and code are available now.
+This tool can remove the background surrounding a person. This functionality can be utilized to develop an application or software that removes backgrounds.
 
 
 ## Overview

@@ -23,7 +23,7 @@ Considering that the misuse of the dataset may lead to ethical concerns, as reco
 ### Run the Demo
 
 
-    python test.py --config config/test_demo_setting.toml
+    python run.py
 
  the results will be in the test_cases_output directory.
 

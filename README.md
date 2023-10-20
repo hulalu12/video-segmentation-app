@@ -4,9 +4,10 @@ This tool can remove the background surrounding a person. This functionality can
 
 ## Overview
 
-![Alt text](./images/image.jpg)
-
-![Alt text](./images/masked.jpg)
+<p float="left">
+  <img src="./images/image.jpg" width="50%" />
+  <img src="./images/masked.jpg" width="50%" /> 
+</p>
 
 
 ## BR5K Dataset

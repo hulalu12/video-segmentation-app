@@ -5,6 +5,7 @@ This tool can remove the background surrounding a person. This functionality can
 ## Overview
 
 ![Alt text](./images/image.jpg)
+![Alt text](./images/masked.jpg)
 
 
 ## BR5K Dataset

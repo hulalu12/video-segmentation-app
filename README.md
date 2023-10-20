@@ -16,7 +16,7 @@ Considering that the misuse of the dataset may lead to ethical concerns, as reco
 * numba
 
 ### Models and Data
-* Download the reshaping model body_reshape_model.pth from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing)
+* Download the example data from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing). I selected this data because there is a high contrast between the person and the background, and the model is working almost perfectly well.
 * Put video-seg.pt into the `models` folder.
 
 

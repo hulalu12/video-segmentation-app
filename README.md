@@ -10,9 +10,6 @@ This tool can remove the background surrounding a person. This functionality can
 </p>
 
 
-## BR5K Dataset
-Considering that the misuse of the dataset may lead to ethical concerns, as recommended by AC, we will review the application to access the datasets. To be able to download the BR5K database, please download, sign the [agreement form](https://raw.githubusercontent.com/JianqiangRen/FlowBasedBodyReshaping/main/EULA/EULA0310.pdf), and then use your work e-mail(e.g., xx@xx.edu.cn,  xx@your_company.com) to send the form to ([jianqiang.rjq@alibaba-inc.com](jianqiang.rjq@alibaba-inc.com)).
-
 ## Getting Started
 ### Data
 * Download the example data from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing). I selected this data because there is a high contrast between the person and the background, and the model is working almost perfectly well.
@@ -28,7 +25,6 @@ Considering that the misuse of the dataset may lead to ethical concerns, as reco
 
     python run.py
 
- the results will be in the test_cases_output directory.
 
 
 

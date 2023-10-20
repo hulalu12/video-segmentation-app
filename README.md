@@ -12,11 +12,11 @@ This tool can remove the background surrounding a person. This functionality can
 
 ## Getting Started
 ### Data
-* Download the example data from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=sharing). Currently, this model performs well on data that has a high contrast between the person and the background. For data with low contrast, this model requires additional training in those respective areas.
+* Download the example data from [google drive](https://drive.google.com/drive/folders/16NlqEX_iM6JEws2LKVZp7je1Mcw3MA5s?usp=sharing). Currently, this model performs well on data that has a high contrast between the person and the background. For data with low contrast, this model requires additional training in those respective areas.
 * Put data into the `data` folder.
 
 ### Model
-* Download the model from [google drive](https://drive.google.com/drive/folders/1B-1mUylAErxEESELRQYs-nFq6LNzGpKw?usp=sharing).
+* Download the model from [google drive](https://drive.google.com/drive/folders/1Z8d6zkIx3-Yo0WeVUPfEcRLPYUT1bStO?usp=sharing).
 * Put video-seg.pt into the `model` folder.
 
 

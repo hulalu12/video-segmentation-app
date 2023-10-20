@@ -1,0 +1,2 @@
+ultralytics
+torch>=2.0.1

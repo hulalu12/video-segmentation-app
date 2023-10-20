@@ -29,6 +29,13 @@ This tool can remove the background surrounding a person. This functionality can
 
 
 ## Fine tuning
-To fine tune the model took an image make a segmentation mask around it.
- 
+To fine-tune the model, take an image, create a segmentation mask around it, and record the pixel coordinates of that mask in a txt file. The image and the txt file should have similar names. An example is provided in the training.
+
+
+    from ultralytics import YOLO
+    model = YOLO('./model/video-seg.pt')  # load a pretrained model
+    model.train(data='./training/seg_person.yaml') # train the model
+
+
+
 

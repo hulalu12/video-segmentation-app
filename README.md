@@ -13,7 +13,7 @@ This tool can remove the background surrounding a person. This functionality can
 ## Getting Started
 ### Installation
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 ### Data
 * Download the example data from [google drive](https://drive.google.com/drive/folders/1G7XXEgMHpHnSkvFRVX5iJqN7sk3VjoM4?usp=drive_link). Currently, this model performs well on data that has a high contrast between the person and the background. For data with low contrast, this model requires additional training in those respective areas.
